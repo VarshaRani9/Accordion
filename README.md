@@ -2,6 +2,7 @@
 This is an ACCORDION like functionality implementation which is done using HTML, CSS, JavaScript and ReactJs.
 
 
+
 ![Screenshot (737)](https://github.com/VarshaRani9/Accordion/assets/127414456/e2acc88c-7ca1-45ef-a83f-92053b404b45)
 
 
